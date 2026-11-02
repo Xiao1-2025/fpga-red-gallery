@@ -1,0 +1,10 @@
+# Tang Dynasty generated runs, logs and session locks
+/project/*_Runs/
+/project/log/
+/project/td_*.log
+/project/td_*.logw
+/project/.lock.f
+/project/quality_build/
+/td_*.log
+/td_*.logw
+/tests/boot_title_build/
